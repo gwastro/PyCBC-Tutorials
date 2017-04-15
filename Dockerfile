@@ -7,5 +7,5 @@ RUN yes | apt-get -y --force-yes install lalframe lal lalsimulation lalsimulatio
 RUN apt-get -y install pkg-config
 
 USER main
-RUN PYTHONPATH=$PHYTHONPATH:/usr/lib/python2.7/dist-packages
+RUN export PATH=/usr/bin:/usr/sbin:/bin:/sbin
 RUN pip install pycbc --user
