@@ -10,5 +10,5 @@ USER main
 RUN echo 'PATH=/usr/bin:/usr/sbin:/bin:/sbin:/home/main/.local/bin' >> /home/main/.binder_start
 RUN echo 'PYTHONPATH=$PYTHONPATH:/home/main/anaconda/lib/python2.7/site-packages' >> /home/main/.binder_start
 RUN echo "alias ipython='jupyter'" >> /home/main/.binder_start
-RUN pip install 'jupyter==4.2.0' --user --ignore-installed
+RUN pip install 'notebook==4.2.0'
 RUN pip install pycbc --user
