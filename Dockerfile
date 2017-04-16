@@ -13,3 +13,5 @@ RUN echo "alias ipython='jupyter'" >> /home/main/.binder_start
 RUN pip install jupyter --user --ignore-installed
 RUN pip install 'notebook==4.2.0'
 RUN pip install pycbc --user
+RUN curl https://github.com/ligo-cbc/pycbc/archive/master.zip > master.zip
+RUN unzip master.zip
