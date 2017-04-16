@@ -10,5 +10,5 @@ USER main
 RUN echo 'PATH=/usr/bin:/usr/sbin:/bin:/sbin:/home/main/.local/bin' >> /home/main/.binder_start
 RUN echo 'PYTHONPATH=$PYTHONPATH:/home/main/anaconda/lib/python2.7/site-packages' >> /home/main/.binder_start
 RUN pip install pycbc --user
-RUN curl https://github.com/ligo-cbc/pycbc/archive/master.zip > master.zip
+RUN wget https://github.com/ligo-cbc/pycbc/archive/master.zip
 RUN unzip master.zip
