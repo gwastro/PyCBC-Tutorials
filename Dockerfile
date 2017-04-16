@@ -9,4 +9,6 @@ RUN apt-get -y install ipython ipython3 ipython-notebook ipython3-notebook
 USER main
 RUN echo 'PATH=/usr/bin:/usr/sbin:/bin:/sbin' >> /home/main/.binder_start
 RUN echo 'PYTHONPATH=$PYTHONPATH:/home/main/anaconda/lib/python2.7/site-packages' >> /home/main/.binder_start
+RUN echo "alias ipython='jupyter'" >> /home/main/.binder_start
+RUN pip install jupyter --user
 RUN pip install pycbc --user
