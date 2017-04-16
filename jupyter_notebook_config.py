@@ -231,7 +231,7 @@ c.NotebookApp.password_required = False
 #c.NotebookApp.port_retries = 50
 
 ## DISABLED: use %pylab or %matplotlib in the notebook to enable matplotlib.
-c.NotebookApp.pylab = 'enabled'
+#c.NotebookApp.pylab = 'disabled'
 
 ## (sec) Time window used to  check the message and data rate limits.
 #c.NotebookApp.rate_limit_window = 3
