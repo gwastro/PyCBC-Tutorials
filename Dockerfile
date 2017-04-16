@@ -7,4 +7,4 @@ RUN yes | apt-get -y --force-yes install lalframe lal lalsimulation lalsimulatio
 RUN apt-get -y install pkg-config python-matplotlib python-h5py python-decorator python-scipy
 USER main
 RUN echo 'PATH=/usr/bin:/usr/sbin:/bin:/sbin' > /home/main/.binder_start
-RUN PATH=/usr/bin:/usr/sbin:/bin:/sbin pip install pycbc --user
+RUN pip install pycbc --user
