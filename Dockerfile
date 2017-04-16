@@ -14,3 +14,5 @@ RUN pip install jupyter --ignore-installed --user
 RUN pip install pycbc --user
 RUN wget https://github.com/ligo-cbc/pycbc/archive/master.zip
 RUN unzip master.zip
+RUN mkdir -p /home/main/.jupyter
+RUN wget https://github.com/ligo-cbc/binder/blob/master/jupyter_notebook_config.py -o /home/main/.jupyter/jupyter_notebook_config.py
