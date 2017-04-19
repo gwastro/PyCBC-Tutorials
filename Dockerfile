@@ -10,6 +10,7 @@ USER main
 RUN echo 'PATH=/usr/bin:/usr/sbin:/bin:/sbin:/home/main/.local/bin' >> /home/main/.binder_start
 RUN echo 'PYTHONPATH=$PYTHONPATH:/home/main/anaconda/lib/python2.7/site-packages' >> /home/main/.binder_start
 RUN echo "alias ipython='jupyter'" >> /home/main/binder_start
+RUN pip install pip --upgrade --user
 RUN pip install jupyter --ignore-installed --user
 RUN pip install pycbc --user
 RUN wget https://github.com/ligo-cbc/pycbc/archive/master.zip
