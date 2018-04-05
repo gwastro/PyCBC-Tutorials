@@ -11,8 +11,8 @@ There are two main methods to run tutorials from your browser.
    * Hit the clone button and then run included tutorials. You can edit and save modifications that you make.
    * We suggest starting by opening the 'index.ipynb' file as it contains a directory of the available tutorials and additional example scripts.
 
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/nitz/pycbc)
+[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/nitz/libraries/pycbc)
 
 2. mybinder
 
-[![Start your mybinder session](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ligo-cbc/binder/master?filepath=index.ipynb)
+[![Start your mybinder session](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gwastro/PyCBC-Tutorials/master?filepath=index.ipynb)
