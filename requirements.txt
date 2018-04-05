@@ -1,2 +1,0 @@
-lal
-pycbc
