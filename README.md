@@ -3,6 +3,12 @@ PyCBC is software developed by a collaboration of LIGO, Virgo, and independent s
 
 These notebooks are available to view, download, or run in interactive sessions.
 
+### Some things that you may learn ###
+ * How to access LIGO data
+ * How to do some basic signal processing 
+ * Data visualization of LIGO data in time-frequency plots
+ * Matched filtering to extract a known signal
+
 ### Run tutorials from your browser! ###
 There are two main methods to run tutorials from your browser. 
 
