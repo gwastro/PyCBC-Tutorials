@@ -3,22 +3,25 @@ PyCBC is software developed by a collaboration of LIGO, Virgo, and independent s
 
 These notebooks are available to view, download, or run in interactive sessions.
 
+### Run tutorials from your browser! ###
+Tutorial 1: Accessing Gravitational-wave data
+[![Open Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorials/1_CatalogData.ipynb)
+
+Tutorial 2: Data visualization and basic signal processing
+[![Open Tutorial 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorials/2_VisualizationSignalProcessing.ipynb)
+
+Tutorial 3: Matched filtering to identify signals
+[![Open Tutorial 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorials/3_WaveformMatchedFilter.ipynb)
+
+Tutorial 4: Signal Consistency and Basis Significance Testing
+[![Open Tutorial 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorials/4_ChisqSignificance.ipynb)
+
 ### Some things that you may learn ###
  * How to access LIGO data
  * How to do some basic signal processing 
  * Data visualization of LIGO data in time-frequency plots
  * Matched filtering to extract a known signal
 
-### Run tutorials from your browser! ###
-There are two main methods to run tutorials from your browser. 
 
-1. Azure notebooks
-   * You'll want to make a microsoft account (free) and log in.
-   * Hit the clone button and then run included tutorials. You can edit and save modifications that you make.
-   * We suggest starting by opening the 'index.ipynb' file as it contains a directory of the available tutorials and additional example scripts.
-
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/nitz/libraries/pycbc)
-
-2. mybinder
-
-[![Start your mybinder session](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gwastro/PyCBC-Tutorials/master?filepath=index.ipynb)
+#### Other ways to run in the browser #### 
+[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/nitz/libraries/pycbc) [![Start your mybinder session](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gwastro/PyCBC-Tutorials/master?filepath=index.ipynb)
