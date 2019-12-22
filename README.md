@@ -5,16 +5,16 @@ These notebooks are available to view, download, or run in interactive sessions.
 
 ### Run tutorials from your browser! ###
 Tutorial 1: Accessing Gravitational-wave data
-[![Open Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorials/1_CatalogData.ipynb)
+[![Open Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/1_CatalogData.ipynb)
 
 Tutorial 2: Data visualization and basic signal processing
-[![Open Tutorial 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorials/2_VisualizationSignalProcessing.ipynb)
+[![Open Tutorial 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/2_VisualizationSignalProcessing.ipynb)
 
 Tutorial 3: Matched filtering to identify signals
-[![Open Tutorial 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorials/3_WaveformMatchedFilter.ipynb)
+[![Open Tutorial 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/3_WaveformMatchedFilter.ipynb)
 
 Tutorial 4: Signal Consistency and Basis Significance Testing
-[![Open Tutorial 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorials/4_ChisqSignificance.ipynb)
+[![Open Tutorial 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/4_ChisqSignificance.ipynb)
 
 ### Some things that you may learn ###
  * How to access LIGO data
