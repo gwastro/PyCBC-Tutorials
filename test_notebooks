@@ -2,6 +2,7 @@
 for not in tutorial/* ; do
      echo $not
      jupyter nbconvert \
+              --ExecutePreprocessor.timeout=600 \
               --ExecutePreprocessor.kernel_name="python" \
               --to notebook --inplace --execute $not
 done
