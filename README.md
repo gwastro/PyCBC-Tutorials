@@ -4,6 +4,8 @@ PyCBC is software developed by a collaboration of LIGO, Virgo, and independent s
 These notebooks are available to view, download, or run in interactive sessions.
 
 ### Run tutorials from your browser! ###
+
+#### Gravitational-wave Data Analysis ####
 Tutorial 1: Accessing Gravitational-wave data
 [![Open Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/1_CatalogData.ipynb)
 
@@ -15,6 +17,10 @@ Tutorial 3: Matched filtering to identify signals
 
 Tutorial 4: Signal Consistency and Basis Significance Testing
 [![Open Tutorial 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/4_ChisqSignificance.ipynb)
+
+#### Gravitational-wave Inference ####
+Tutorial 1: Models (likelihood function you are trying to sample + priors) and Samplers by Hand
+[![Open Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/inference_1_ModelsAndPEByHand.ipynb)
 
 ### Some things that you may learn ###
  * How to access LIGO data
