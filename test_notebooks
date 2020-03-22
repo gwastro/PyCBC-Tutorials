@@ -1,8 +1,10 @@
 #!/bin/bash
-for not in tutorial/* ; do
+for not in tutorial/*.ipynb tutorial/*/*.ipynb; do
      echo $not
+     pushd `dirname ${not}`
      jupyter nbconvert \
               --ExecutePreprocessor.timeout=600 \
               --ExecutePreprocessor.kernel_name="python" \
-              --to notebook --inplace --execute $not
+              --to notebook --inplace --execute `basename ${not}`
+     popd
 done
