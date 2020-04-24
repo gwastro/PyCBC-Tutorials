@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 for not in tutorial/*.ipynb tutorial/*/*.ipynb; do
      echo $not
      pushd `dirname ${not}`
