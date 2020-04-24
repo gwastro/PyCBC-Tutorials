@@ -4,7 +4,7 @@ for not in tutorial/*.ipynb tutorial/*/*.ipynb; do
      echo $not
      pushd `dirname ${not}`
      jupyter nbconvert \
-              --ExecutePreprocessor.timeout=600 \
+              --ExecutePreprocessor.timeout=1500 \
               --ExecutePreprocessor.kernel_name="python" \
               --to notebook --inplace --execute `basename ${not}`
      popd
