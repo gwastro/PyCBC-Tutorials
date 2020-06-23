@@ -28,7 +28,7 @@ Tutorial 1: Models (likelihood function you are trying to sample + priors) and S
 [![Open Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/inference_1_ModelsAndPEByHand.ipynb)
 
 Tutorial 8: Adding Custom Waveforms to PyCBC
-[![Open Tutorial 8](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/inference_8_AddingCustomWaveform.ipynb)
+[![Open Tutorial 7](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/inference_7_AddingCustomWaveform.ipynb)
 
 ### Some things that you may learn ###
  * How to access LIGO data
