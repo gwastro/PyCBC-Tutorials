@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-for not in tutorial/*.ipynb tutorial/*/*.ipynb; do
+for not in tutorial/*.ipynb; do
      echo $not
      pushd `dirname ${not}`
      jupyter nbconvert \
