@@ -19,8 +19,16 @@ Tutorial 4: Signal Consistency and Basis Significance Testing
 [![Open Tutorial 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/4_ChisqSignificance.ipynb)
 
 #### Gravitational-wave Inference ####
+Many of these tutorials will require you to make edits to config files as part of their exercises. At the moment this isn't easy to 
+do on services like google colab. However, you can do them either on your local machine or by using services such as mybinder or 
+sciserver which allow a full juypterhub experience with the ability to view and edit text files. Below we give links to the
+tutorials which should directly work in google colab, however.
+
 Tutorial 1: Models (likelihood function you are trying to sample + priors) and Samplers by Hand
 [![Open Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/inference_1_ModelsAndPEByHand.ipynb)
+
+Tutorial 8: Adding Custom Waveforms to PyCBC
+[![Open Tutorial 8](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/inference_8_AddingCustomWaveform.ipynb)
 
 ### Some things that you may learn ###
  * How to access LIGO data
