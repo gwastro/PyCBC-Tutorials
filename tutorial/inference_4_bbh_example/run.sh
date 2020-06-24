@@ -9,7 +9,7 @@ OUTPUT_PATH=bbh_results.hdf
 
 # the following sets the number of cores to use; adjust as needed to
 # your computer's capabilities
-NPROCS=8
+NPROCS=1
 
 # run sampler
 # Running with OMP_NUM_THREADS=1 stops lalsimulation
