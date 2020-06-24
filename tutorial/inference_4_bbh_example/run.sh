@@ -5,11 +5,11 @@ PRIOR_CONFIG=gw150914_like.ini
 DATA_CONFIG=data.ini
 SAMPLER_CONFIG=emcee_pt-gw150914_like.ini
 
-OUTPUT_PATH=inference.hdf
+OUTPUT_PATH=bbh_results.hdf
 
 # the following sets the number of cores to use; adjust as needed to
 # your computer's capabilities
-NPROCS=10
+NPROCS=8
 
 # run sampler
 # Running with OMP_NUM_THREADS=1 stops lalsimulation
