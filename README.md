@@ -27,7 +27,11 @@ tutorials which should directly work in google colab, however.
 Tutorial 1: Models (likelihood function you are trying to sample + priors) and Samplers by Hand
 [![Open Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/inference_1_ModelsAndPEByHand.ipynb)
 
-Tutorial 8: Adding Custom Waveforms to PyCBC
+Tutorial 5: Results files and Plotting
+[![Open Tutorial 5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/inference_5_results_io/IntroToPyCBCInference.ipynb)
+
+
+Tutorial 7: Adding Custom Waveforms to PyCBC
 [![Open Tutorial 7](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/inference_7_AddingCustomWaveform.ipynb)
 
 ### Some things that you may learn ###
