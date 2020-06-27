@@ -42,4 +42,4 @@ Tutorial 7: Adding Custom Waveforms to PyCBC
 
 
 #### Other ways to run in the browser #### 
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/nitz/libraries/pycbc) [![Start your mybinder session](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gwastro/PyCBC-Tutorials/master?filepath=index.ipynb)
+[![Start your mybinder session](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gwastro/PyCBC-Tutorials/master?filepath=index.ipynb)
