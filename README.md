@@ -24,6 +24,9 @@ do on services like google colab. However, you can do them either on your local 
 sciserver which allow a full juypterhub experience with the ability to view and edit text files. Below we give links to the
 tutorials which should directly work in google colab, however.
 
+Tutorial 0: Overview (this is a summary of inference tutorials 1-6; meant for a shorter tutorial session)
+[![Open Tutorial 0](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/inference_0_Overview.ipynb)
+
 Tutorial 1: Models (likelihood function you are trying to sample + priors) and Samplers by Hand
 [![Open Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/inference_1_ModelsAndPEByHand.ipynb)
 
