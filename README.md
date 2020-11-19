@@ -27,6 +27,8 @@ tutorials which should directly work in google colab, however.
 Tutorial 0: Overview (this is a summary of inference tutorials 1-6; meant for a shorter tutorial session)
 [![Open Tutorial 0](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/inference_0_Overview.ipynb)
 
+[**See video presentation of Tutorial 0 by Collin Capano**](https://icerm.brown.edu/video_archive/?play=2407)
+
 Tutorial 1: Models (likelihood function you are trying to sample + priors) and Samplers by Hand
 [![Open Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/inference_1_ModelsAndPEByHand.ipynb)
 
