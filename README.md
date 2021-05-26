@@ -15,7 +15,7 @@ Tutorial 2: Data visualization and basic signal processing
 Tutorial 3: Matched filtering to identify signals
 [![Open Tutorial 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/3_WaveformMatchedFilter.ipynb)
 
-Tutorial 4: Signal Consistency and Basis Significance Testing
+Tutorial 4: Signal Consistency and Basic Significance Testing
 [![Open Tutorial 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/4_ChisqSignificance.ipynb)
 
 #### Gravitational-wave Inference ####
