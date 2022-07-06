@@ -42,6 +42,9 @@ Tutorial 7: Adding Custom Waveforms to PyCBC
 Tutorial 8: Black hole ringdown analysis with PyCBC
 [![Open Tutorial 8](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/inference_8_BHRingdown.ipynb)
 
+Tutorial 9: Adding custom models to PyCBC
+[![Open Tutorial 9](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gwastro/pycbc-tutorials/blob/master/tutorial/inference_9_AddingCustomModels.ipynb)
+
 ### Some things that you may learn ###
  * How to access LIGO data
  * How to do some basic signal processing 
